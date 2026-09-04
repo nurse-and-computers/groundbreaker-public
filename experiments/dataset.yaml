@@ -1,0 +1,6 @@
+path: data/ade20k_yolo
+train: images/train
+val: images/val
+
+nc: 7
+names: ["bed", "couch", "railing", "rug", "stairs", "kerb", "step"]
